@@ -77,7 +77,7 @@ def main():
         G2 = st.slider('Nota del parcial 2', 0, 20, 3)
         # Se almacenan los parametros en un diccionario
         datos = {'T. estudio': estudio,
-                 'Situación Romantico': romantico,
+                 'Situación Romantica': romantico,
                  'Salud': salud,
                  '# ausencias': ausencias,
                  'Parcial 1': G1,
